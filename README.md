@@ -39,24 +39,6 @@ python manage.py runserver
 - Application: http://localhost:8000
 - Admin interface: http://localhost:8000/admin
 
-## Usage
-
-1. **Adding Data**:
-   - Use the "Add New User" or "Add New Book" buttons to create new entries
-   - Fill in the required information in the forms
-
-2. **Querying Data**:
-   - Use the query form at the top of the page
-   - Select the table you want to query
-   - Choose a field and operator
-   - Enter the value to search for
-   - Click "Search" to see the results
-
-3. **Managing Data**:
-   - Edit or delete entries using the buttons in the tables
-   - View all entries in both the Users and Books tables
-   - Link books to users through the "Liked Books" field
-
 ## Admin Interface
 
 Access the admin interface at `/admin` to:
